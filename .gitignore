@@ -1,6 +1,7 @@
 # Specific to this project
 test/
 train/
+tf-metal/
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
