@@ -36,6 +36,9 @@ The project is organized as follows:
 - README.txt
     This file
 
+- Report.pdf
+    A full length report on the project, including methodology, results, and analysis.
+
 Data:
 -----
 - 5488 training images with class labels
